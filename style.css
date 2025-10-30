@@ -929,7 +929,6 @@ body {
   margin-top: 33px;
 }
 
-/* 
 .sectionL {
   width: 700px;
 }
@@ -974,40 +973,7 @@ body {
   margin: 10px auto;
   padding: 5px 0px;
   display: none;
-} */
-
-  .faq {
-
-    &-list-item {
-      margin: 10px;
-      position: relative;
-      cursor: pointer;
-      text-align: left;
-
-      span {
-        position:absolute;
-        top: 16px;
-        right:60px;
-        color: #80C9C6;
-        font-size: 3rem;
-      }
-    }
-
-    &-list-item h3 {
-      font-size: 1.8rem;
-    }
-
-    .answer {
-      width: 580px;
-      text-align: left;
-      font-size: 1.4rem;
-      line-height: 2.2rem;
-      margin: 10px auto;
-      padding: 5px 0px;
-      display: none;
-    }
-  }
-}
+} 
 
 .sectionM__description1 {
   font-size: 2rem;
